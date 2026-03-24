@@ -1,0 +1,15 @@
+Validation metrics:
+{'eval_loss': 2.229191303253174, 'eval_rouge1': 33.56, 'eval_rouge2': 14.15, 'eval_rougeL': 28.61, 'eval_aircraft_precision': 20.22, 'eval_role_precision': 50.53, 'eval_altitude_precision': 14.19, 'eval_runway_precision': 14.22, 'eval_airport_precision': 9.48, 'eval_observation_precision': 44.15, 'eval_faithfulness': 25.47, 'eval_concision': 95.84, 'eval_avg_pred_len': 15.64, 'eval_final_score': 40.17, 'eval_runtime': 690.9989, 'eval_samples_per_second': 6.216, 'eval_steps_per_second': 0.777, 'epoch': 3.0}
+
+Test metrics:
+{'eval_loss': 2.2063512802124023, 'eval_rouge1': 34.0, 'eval_rouge2': 14.66, 'eval_rougeL': 29.14, 'eval_aircraft_precision': 21.73, 'eval_role_precision': 49.81, 'eval_altitude_precision': 15.32, 'eval_runway_precision': 13.57, 'eval_airport_precision': 8.44, 'eval_observation_precision': 44.73, 'eval_faithfulness': 25.6, 'eval_concision': 96.02, 'eval_avg_pred_len': 15.58, 'eval_final_score': 40.39, 'eval_runtime': 762.9937, 'eval_samples_per_second': 6.256, 'eval_steps_per_second': 0.782, 'epoch': 3.0}
+
+Aircraft precision: 0.05333333333333334
+Role precision: 0.37333333333333335
+Altitude precision: 0.016666666666666666
+Runway precision: 0.0
+Airport precision: 0.0033333333333333335
+Observation precision: 0.13666666666666666
+Faithfulness mean: 0.09722222222222221
+Concision ok rate: 0.7566666666666667
+Average predicted length: 15.546666666666667
