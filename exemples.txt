@@ -1,0 +1,34 @@
+========== EXEMPLE 0 ==========
+PREDICTION:
+ B737-800 flight crew reported the right engine was in shutdown and the engine spooling down.
+
+REFERENCE:
+ A First Officer and Check Pilot reported a sudden; unexplained shutdown of the right engine on a CRJ-700 aircraft during the landing rollout on a training flight. The Check Pilot noted he never saw the FO pull the right engine shut-off trigger and only observed the First Officer's hand on top of the power levers.
+
+========== EXEMPLE 1 ==========
+PREDICTION:
+ B737-800 First Officer reported an altitude deviation due to turbulence in the vicinity of thunderstorms.
+
+REFERENCE:
+ SD3 First Officer reports loosing 400 feet from FL190 while passing between thunderstorms in IMC with with some moderate down drafts. The engines were operating near their limits; delaying the return to assigned altitude.
+
+========== EXEMPLE 2 ==========
+PREDICTION:
+ B737-800 flight crew reported receiving a Level 2 'Air System Pressure 3 Lo' alert during approach.
+
+REFERENCE:
+ MD11 flight crew experiences an Air System 3 low pressure alert while being vectored for approach. A few minutes later an Engine 3 low RPM alert is displayed. The Low RPM Checklist is initiated by the First officer; but the Captain elects to complete the Landing Checklist and land before completing the Low RPM Checklist.
+
+========== EXEMPLE 3 ==========
+PREDICTION:
+ C172 pilot reported a near collision with a jet aircraft while taxiing.
+
+REFERENCE:
+ C162 pilot reported contacting the wingtip of a parked aircraft during taxi to parking spot.
+
+========== EXEMPLE 4 ==========
+PREDICTION:
+ B737-800 flight crew reported encountering wake turbulence climbing through FL380.
+
+REFERENCE:
+ B737-700 Captain reported a track deviation occurred when he turned to avoid visible indications of wake turbulence; which did not allow enough time to coordinate with ATC.

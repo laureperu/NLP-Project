@@ -1,0 +1,49 @@
+====================================================================================================
+NARRATIVE:
+ We were on approach to landing Runway 27. I was pilot flying. The approach was normal; in the flare I brought the thrust levers to idle at the appropriate time. The left thrust lever stopped at idle and the right continued slightly. When I went to deploy reverse thrust; the left reverser deployed and the right thrust lever went back a little bit more. The Captain took control of the airplane when only the left reverser deployed. After we were pulled off the runway; I saw the right engine was in shutdown and the engine was spooling down. We stopped on the parallel taxiway and restarted the engine before taxiing back to the gate. ...
+
+REFERENCE:
+ A First Officer and Check Pilot reported a sudden; unexplained shutdown of the right engine on a CRJ-700 aircraft during the landing rollout on a training flight. The Check Pilot noted he never saw the FO pull the right engine shut-off trigger and only observed the First Officer's hand on top of the power levers. 
+
+PREDICTION:
+ B737-800 flight crew reported the right engine was in shutdown and the engine spooling down. 
+
+====================================================================================================
+NARRATIVE:
+ On a typical; hot; Texas day I was flying a relatively light payload of cargo with building thunderstorms near Dallas and Houston. Our original flight plan was scheduled to make a fuel stop in Houston Hobby; then continue to destination. Upon looking at the current radar summary and satellite; the Captain and I decided to change our flight plan to Shreveport as the cells appeared to be moving in separate directions. Houston appeared to be in the path of the largest part of the storm. I had an XM weather display as well as the on-board WX radar to monitor the storms as we approached. The movement of the storms changed as they were growing rapidly; and the gap between them was getting smaller. About 50 miles to the south of the storms Houston Center advised that the gap was closed and aircraft had not penetrated the line for almost an hour. After discussing with the Captain; the on-board radar still showed almost a 15 mile gap in the cells with heavy precipitation. The tops in all the adjacent areas were reported 24;000 FT and lower. We were cruising at 17;000 FT and requested a block altitude of 16;000 to 18;000 FT in case of turbulence. Houston Center handed us off to Ft. Worth Cen ...
+
+REFERENCE:
+ SD3 First Officer reports loosing 400 feet from FL190 while passing between thunderstorms in IMC with with some moderate down drafts. The engines were operating near their limits; delaying the return to assigned altitude. 
+
+PREDICTION:
+ Air carrier First Officer reported a loss of altitude due to turbulence in the vicinity of thunderstorms. 
+
+====================================================================================================
+NARRATIVE:
+ While being vectored to final during the dogleg we received a Level 2 'Air System Pressure 3 Lo' alert. I began to secure air system 3 using our QRH. During this time we noticed a 'Confirm Engine Out/Clear' prompt on our MCDU. I asked the Captain if he had split the throttles for some reason and he replied 'no.' I selected 'clear.' Shortly after we then received a Level 2 'Engine 3 RPM Lo' alert as we rolled out on approximately 8 mile final. We then initiated the QRH checklist then upon reaching the FAF the Captain elected to finish configuring. The runway was in sight; aircraft was stable; and the Captain left the throttle in idle (still producing power) and landed uneventfully. After clearing the runway the Captain elected to secure the Number 3 Engine. Taxi was uneventful. There were many factors in play during this approach. Newark was just finishing a strong blizzard; JFK and other area airports (we had heard) were closed so rather than going back into the weather we elected to land. In hindsight; since we had enough fuel we probably should have been vectored back out for another approach; declare an emergency and verify we had run all appropriate checklists. ...
+
+REFERENCE:
+ MD11 flight crew experiences an Air System 3 low pressure alert while being vectored for approach. A few minutes later an Engine 3 low RPM alert is displayed. The Low RPM Checklist is initiated by the First officer; but the Captain elects to complete the Landing Checklist and land before completing the Low RPM Checklist. 
+
+PREDICTION:
+ B737-800 flight crew reported receiving a Level 2 'Air System Pressure 3 Lo' alert during approach. 
+
+====================================================================================================
+NARRATIVE:
+ When I just landed at ZZZ; Ground gave me instruction to taxi via Bravo-Echo (for refueling). So after that I went to the parking spot and parked my plane; and one gentleman from [the FBO] came and told me to move my plane all the way to the end to park my plane because the current place is for helipad (in my defense they didn't put any sign for the helipad; etc.); so I agreed to taxi the plane to the very end of their parking spot.When I am taxiing until the end; my parking spot was on the right side; the ground crew from [the FBO] gave me a turn sign (turn lights sign); instead of turn off the plane; so we can tow the plane and park (give an X sign).Before I can proceed my turn; I was pointed to the jet airplane that parked on my left side and the ground crew keep giving a sign for me to turn (because the ground crew parked his golf cart on the right side of my wings). With caution I proceeded to turn and I collide with the very tip part of the jet airplane wing. Before the accident happened there wasn't any cones around the jet plane.As the pilot-in-command I failed to secure the safety of my aircraft; and will evaluate this as part of learning process for me to be a safe and pr ...
+
+REFERENCE:
+ C162 pilot reported contacting the wingtip of a parked aircraft during taxi to parking spot. 
+
+PREDICTION:
+ Pilot reported a ground conflict with a jet aircraft while taxiing to the end of the runway. 
+
+====================================================================================================
+NARRATIVE:
+ Climbing through FL380; we observed significant wing tip vortices and wake turbulence approaching our flight path. Anticipating possible aircraft upset I quickly turned off course to avoid; but did not have time to notify ATC until after initiating the turn. ATC called us to inquire about the turn as we were about to notify them. We turned back on course after avoiding the wake turbulence.Initially we believed we were going to avoid the wake turbulence; but it quickly moved towards our flight path. I should have been more conservative and requested a turn from ATC earlier to avoid even the possibility of encountering the wake turbulence. ...
+
+REFERENCE:
+ B737-700 Captain reported a track deviation occurred when he turned to avoid visible indications of wake turbulence; which did not allow enough time to coordinate with ATC. 
+
+PREDICTION:
+ B737 flight crew reported encountering wake turbulence climbing through FL380.
