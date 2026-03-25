@@ -1,0 +1,5 @@
+source,metric,value
+manual_rouge,rouge1,23.08
+manual_rouge,rouge2,6.53
+manual_rouge,rougeL,18.03
+manual_rouge,rougeLsum,18.05
